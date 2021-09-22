@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://hari-test.netlify.app/*"
+  to = "https://hari-test.netlify.app/about/:splat"
+  status = 301
+  force = true
