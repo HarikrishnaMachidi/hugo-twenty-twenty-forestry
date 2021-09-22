@@ -1,4 +1,30 @@
 ---
 label: text hari
 hide_body: false
-fields: []
+fields:
+- name: block_no_1
+  type: blocks
+  label: block no 1 test here
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: This is a 2-Step process that imports the template below into your
+    Git Account for storage and sets it up in Forestry for editing.This is a 2-Step
+    process that imports the template below into your Git Account for storage and
+    sets it up in Forestry for editing.This is a 2-Step process that imports the template
+    below into your Git Account for storage and sets it up in Forestry for editing.This
+    is a 2-Step process that imports the template below into your Git Account for
+    storage and sets it up in Forestry for editing.This is a 2-Step process that imports
+    the template below into your Git Account for storage and sets it up in Forestry
+    for editing.
+- name: test_templater_
+  type: include
+  config: {}
+  template: text-hari
+  label: 'test templater '
+  description: This is a 2-Step process that imports the template below into your
+    Git Account for storage and sets it up in Forestry for editing.This is a 2-Step
+    process that imports the template below into your Git Account for storage and
+    sets it up in Forestry for editing.This is a 2-Step process that imports the template
+    below into your Git Account for storage and sets it up in Forestry for editing.
