@@ -1,4 +1,13 @@
 ---
 label: iframe
 hide_body: false
-fields: []
+fields:
+- name: iframe
+  type: blocks
+  label: Iframe
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: '&lt;iframe src="<a href="https://capture.navattic.com/3IYJ2FuugLcvASdaEwLM"
+    title="https://capture.navattic.com/3IYJ2FuugLcvASdaEwLM" target="_blank">https://capture.navattic.com/3IYJ2FuugLcvASdaEwLM</a>"&gt;&lt;/iframe&gt;'
