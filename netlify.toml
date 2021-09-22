@@ -1,5 +1,16 @@
+[build]
+publish = "/"
+
+[dev]
+publish = "/"
+command = "Hugo"
+
 [[redirects]]
-  from = "/*"
+  from = "/*"   
   to = "/about"
   status = 404
-  force = false
+
+[[redirects]]
+from = "/*"   
+to = "/about"
+status = 200
