@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/search"
+  from = "/search33"
   to = "https://api.mysearch.com"
   status = 200
   force = true
