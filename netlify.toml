@@ -1,2 +1,6 @@
-/en/* /en/404.html 404
-/de/* /de/404.html 404
+[[redirects]]
+  from = "/search"
+  to = "https://api.mysearch.com"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
