@@ -1,18 +1,1 @@
-[[redirects]]
-  from = "/*"
-  to = "/about"
-  status = 301
-  force = false
-
-[[redirects]]
-  from = "/*"
-  to = "/about"
-  status = 404
-  force = false
-
-  [[redirects]]
-  from = "/*"
-  to = "/about"
-  status = 200
-  force = false
-
+/about  404
