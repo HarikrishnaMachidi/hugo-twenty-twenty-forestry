@@ -1,4 +1,12 @@
 ---
 label: test
 hide_body: false
-fields: []
+fields:
+- name: test_page
+  type: text
+  config:
+    required: false
+  label: test page
+  description: test page works
+pages:
+- content/testpage/test-page.md
