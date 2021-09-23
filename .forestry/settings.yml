@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/404/*
   label: '404'
-  match: "**/*"
 - type: heading
   label: menu
 - type: document

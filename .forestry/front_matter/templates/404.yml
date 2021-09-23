@@ -1,0 +1,12 @@
+---
+label: '404'
+hide_body: false
+fields:
+- name: '404'
+  type: blocks
+  label: '404'
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: page works
