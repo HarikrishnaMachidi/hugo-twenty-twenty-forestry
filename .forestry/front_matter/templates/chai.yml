@@ -1,4 +1,9 @@
 ---
 label: chai
 hide_body: false
-fields: []
+fields:
+- name: chaai
+  type: text
+  config:
+    required: false
+  label: chaai
